@@ -1,11 +1,11 @@
   =>  Template Name    : Tourist - Travel Agency HTML Template
 
-  =>  Template Link    : https://htmlcodex.com/travel-agency-html-template
+  =>  Template Link    : https://www.softosol.com/travel-agency-html-template
 
-  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+  =>  Template License : https://www.softosol.com/license (or read the LICENSE.txt file)
 
-  =>  Template Author  : HTML Codex
+  =>  Template Author  : Softosol Private Limited
 
-  =>  Author Website   : https://htmlcodex.com
+  =>  Author Website   : https://www.softosol.com
 
-  =>  About HTML Codex : HTML Codex is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://htmlcodex.com/about-us )
+  =>  About Softosol Private Limited : Softosol Private Limited is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://www.softosol.com/about-us )
