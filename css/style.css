@@ -1,6 +1,6 @@
 /********** Template CSS **********/
 :root {
-    --primary: #86B817;
+    --primary: #24aae1;
     --secondary: #FE8800;
     --light: #F5F5F5;
     --dark: #14141F;
@@ -83,7 +83,7 @@
     position: relative;
     margin-right: 25px;
     padding: 35px 0;
-    color: #FFFFFF !important;
+    color: black !important;
     font-size: 18px;
     font-weight: 600;
     outline: none;
@@ -106,7 +106,7 @@
 }
 
 .sticky-top.navbar-light .navbar-brand img {
-    max-height: 45px;
+    max-height: 65px;
 }
 
 @media (max-width: 991.98px) {
@@ -140,6 +140,8 @@
         left: 0;
         border-bottom: 1px solid rgba(256, 256, 256, .1);
         z-index: 999;
+        background-color: var(--light) !important;
+
     }
     
     .sticky-top.navbar-light {
@@ -441,4 +443,9 @@
     margin-right: 0;
     padding-right: 0;
     border-right: none;
+}
+
+.img-logo {
+    height: 80px;
+    width: 160px;
 }
