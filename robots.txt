@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://emaantravelandtours.com/sitemap.xml
