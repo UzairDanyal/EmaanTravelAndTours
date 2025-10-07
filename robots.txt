@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://emaantravelandtours.com/sitemap.xml
+Sitemap: https://emaantravelandtours.org/sitemap.xml
